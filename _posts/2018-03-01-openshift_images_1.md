@@ -137,10 +137,3 @@ docker-registry-default.idc.yst.com.cn.crt  openshift-ca.crt
 [root@master-openshift anchors]# systemctl daemon-reload
 [root@master-openshift anchors]# systemctl restart docker
 ```
-
-
-
-
-
-
-
